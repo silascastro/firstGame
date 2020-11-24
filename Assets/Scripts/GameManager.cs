@@ -20,6 +20,5 @@ public class GameManager : MonoBehaviour
     public void EndGame()
     {
         gameState = false;
-        Debug.Log("GAME OVER");
     }
 }
